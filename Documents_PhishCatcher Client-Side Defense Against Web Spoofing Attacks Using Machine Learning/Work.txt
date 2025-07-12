@@ -1,0 +1,25 @@
+Service Provider
+
+Login,
+Browse and Train & Test Data Sets, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View Prediction Of Web Spoofing Attack Status, 
+View Web Spoofing Attack Status Ratio, 
+Download Trained Data Sets, 
+View Web Spoofing Attack Status Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT ATTACK STATUS TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+URL,
+Prediction.
